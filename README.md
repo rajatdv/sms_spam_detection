@@ -4,7 +4,7 @@
 #Software Required
 <ul>
 <li>Python 2 or 3</li>
-<li>jupyter nootbook</li>
+<li>jupyter notebook</li>
 </ul>
 
 #Reference
